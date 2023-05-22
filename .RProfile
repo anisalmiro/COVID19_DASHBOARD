@@ -97,6 +97,7 @@ cli::cli_alert_success("Iniciando Dashboar - carregamento de directorios e BD")
 dir_data <- "data"
 dir_R <- "R"
 dir_www <- "www"
+dir_function <- "function"
 dir_limpos <- file.path(dir_data, "Analises")
 dir_dashboard <- file.path(dir_R, "DB_Dashboard")
 
